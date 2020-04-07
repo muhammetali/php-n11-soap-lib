@@ -11,5 +11,6 @@
             "N11\\" : "src/"
         }
     },
+    "minimum-stability": "stable",
     "require": {}
 }
